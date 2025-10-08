@@ -112,6 +112,7 @@ html,body {
     padding: 2rem 1rem;
     position: relative;
     overflow: hidden;
+    margin-top:2rem;
 }
 .section .profile-photo {
     display: flex;
@@ -438,7 +439,7 @@ iframe {
     .section {
         flex-direction:column; 
         padding: 1rem 1rem;
-        gap:2rem;
+        gap:2.5rem;
     }
 
     .section .profile-photo {
@@ -517,4 +518,5 @@ iframe {
     .footer .footer-details {
         width: 100%;
     }
+
 }
